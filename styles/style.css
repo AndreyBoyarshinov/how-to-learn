@@ -84,7 +84,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color: #2f80ed
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
@@ -341,13 +341,6 @@
   color: white;
   text-decoration: none;
 }
-.footer__column_content_social {
-  display: flex;
-  flex-direction: column;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 
 .footer__social-icon {
   position: relative;
