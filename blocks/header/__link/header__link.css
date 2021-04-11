@@ -4,3 +4,8 @@
   line-height: 25px;
   font-size: 18px;
 }
+
+.header__link:hover {
+  opacity: 0.5;
+  transition: opacity .3s linear;
+}
